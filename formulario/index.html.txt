@@ -19,7 +19,7 @@
 			<input type="email" name="email" placeholder="Destinatario">
 		</br>
 		</br>
-			<label for="message"> Escriba su mensaje</label><br>
+			<label for="message"> Escriba aqui su mensaje</label><br>
 			<textarea name="message" id="message"></textarea>
 			<hr/>
 
